@@ -10,13 +10,13 @@ text = r"C:\Users\parke\Desktop\Projects\Python Projects\Twitter bot\tweetBot-Ma
 tweetbot.read(text)
 
 # API Key
-cons_key = 'XVNJNGN8ocKuiYkmoApLJFBEh'
+cons_key = ''
 # API Secret
-cons_secret = 'suX6j5pgJL7FC8fp01oKq3jRJsVDtAwvkgmHACHdJ2Tc6FSyq8'
+cons_secret = ''
 # Access Token
-access_token = '992212667434586112-bQM6q0WDUVjq4xKuGFgkdHraW4G3M1q'
+access_token = ''
 # Access Token Secret
-access_token_secret = 'nMkt3f2LuKsINHDJ8Tv5uEkvj7kW4pPefgmo1bOLJFivq'
+access_token_secret = ''
 
 tweetbot.twitter_login(cons_key,cons_secret,access_token,access_token_secret)
 

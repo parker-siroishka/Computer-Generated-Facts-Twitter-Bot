@@ -7,7 +7,7 @@ through this list and tries to create grammatically correct computer generated f
 
 The results are always silly and not quite what was expected. 
 
-Link to markovbot library: https://github.com/esdalmaijer/markovbot <br>
-Link to Edwin Dalmaijer Twitter: https://twitter.com/esdalmaijer
+<em>markovbot library</em>: https://github.com/esdalmaijer/markovbot <br>
+<em>Edwin Dalmaijer Twitter</em>: https://twitter.com/esdalmaijer
 
 <strong>I take no credit for the creation of the Markovbot library.</strong> I merely used it out of boredom for fun!
